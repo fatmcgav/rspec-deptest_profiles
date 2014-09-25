@@ -1,0 +1,5 @@
+*.lock
+.bundle/
+spec/fixtures
+.tmp/
+.librarian/

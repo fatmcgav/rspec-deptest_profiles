@@ -1,0 +1,20 @@
+{
+	"author": "Gavin Williams <fatmcgav@gmail.com>",
+	"dependencies": [{
+			"name": "puppetlabs/stdlib",
+			"version_requirement": ">= 3.2.0"
+		},{
+			"name": "fatmcgav/glassfish",
+			"version_requirement": ">= 0.3.0"
+		}
+	],
+	"license": "",
+	"name": "rspec-deptest_profiles",
+	"operatingsystem_support": [],
+	"project_page": "",
+	"requirements": [],
+	"source": "https://github.com/fatmcgav/rspec-deptesti_profiles.git",
+	"summary": "Rpsec dependency test profiles example module.",
+	"tags": [],
+	"version": "0.1.0"
+}
