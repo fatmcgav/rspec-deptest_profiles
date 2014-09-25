@@ -1,3 +1,3 @@
-class deptest_profiles { 
-  notice("Deptest_profiles::init does nothing")
+class deptest_profiles {
+  notice('Deptest_profiles::init does nothing')
 }

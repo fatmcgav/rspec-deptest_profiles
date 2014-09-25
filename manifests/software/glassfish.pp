@@ -1,4 +1,4 @@
-class deptest_profiles::software::glassfish { 
+class deptest_profiles::software::glassfish {
   # Anchor the class to ensure it's contained
   anchor { 'deptest_profiles::software::glassfish::begin': }
 
